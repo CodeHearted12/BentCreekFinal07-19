@@ -1,0 +1,100 @@
+font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif;
+
+
+body {
+  background-color:#F2F1E8;
+  margin: !important 0;
+  padding: !important 0;
+}
+
+
+
+.bar {
+ display: flex;
+ justify-content: space-around;
+ position: relative;
+ left: 385px;
+ width: 400px;
+ margin: 8px;
+}
+
+nav {
+  background-color: white;
+  display: flex;
+  text-align: center;
+  height: 40px;
+  margin: 7px;
+}
+nav img{
+  width: 30px;
+  height: 30px;
+  padding: 5px 10px;
+}
+
+footer{
+  display: flex;
+  padding: 20px;
+  height: 30px;
+  color: white;
+  background-color: #434738;
+  position: relative;
+  top: 218px;
+}
+
+.background-image {
+  height: 500px;
+  background-image: url('../images/optimized/background-2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.pictures{
+  width: 500px;
+  height: 50%;
+}
+
+.sect {
+  background-color: white;
+}
+
+#myBtn {
+  padding: 15px;
+  position: relative;
+    left: 616px;
+    top: -201px;
+    background-color: saddlebrown;
+    color: white;
+}
+.whitebox{
+  background-color: white;
+  width: 195px;
+    left: 425px;
+    top: 25px;
+    position: relative;
+    padding: 144px;
+}
+
+.text {
+  margin: 0px;
+  position: relative;
+  left: 471px;
+  top: -234px;
+  font-size: 26px;
+}
+
+.text1 {
+    margin: 0px;
+    position: relative;
+    left: 444px;
+    top: -234px;
+    font-size: 19px;
+}
+
+.name {
+  position: relative;
+left: 443px;
+top: -213px;
+
+margin: 0px;
+}
