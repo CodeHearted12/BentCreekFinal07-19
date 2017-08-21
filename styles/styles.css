@@ -61,59 +61,88 @@ nav img
   padding: 5px;
   width:550px;
   height:300px;
+  /*position: absolute;*/
 }
+
+.first {
+  position: relative;
+}
+
+
 .two
 {
   padding: 5px;
   width:200px;
   height:300px;
 }
-.three
-{
+
+.second {
+  position: relative;
+}
+
+.three {
   padding: 5px;
   width:150px;
   height:300px;
 }
-.four
-{
+
+.third {
+  position: relative;
+}
+
+
+.four {
   padding: 5px;
   width:200px;
   height:150px;
 }
-.five
-{
+
+.fourth {
+  position: relative;
+}
+
+.five {
   padding: 5px;
   width:180px;
   height:150px;
 }
-.six
-{
+
+.fifth {
+  position: relative;
+}
+
+.six {
   padding: 5px;
   width:310px;
   height:150px;
 }
-.seven
-{
+
+.sixth {
+  position: relative;
+}
+
+.seven {
   padding: 5px;
   width:200px;
   height:150px;
 }
 
-.box
-{
+.seventh {
+  position: relative;
+}
+
+.box {
 display: flex;
 justify-content: center;
 
 }
 
-.box1
-{
+.box1 {
 display: flex;
 justify-content: center;
 }
 
-footer
-{
+footer {
   display: flex;
   padding: 20px;
   height: 30px;
@@ -122,42 +151,37 @@ footer
 }
 
 
-.name
-{
-    align-items: flex-end;
+.name {
     position: absolute;
-    display: flex;
     width: 150px;
     padding: 5px;
-    right: 940px;
+    right: 395px;
     color: white;
-    top: 463px;
+    top: 240px;
     background-color: #434738;
 }
 
 
-.name1
-{
+.name1 {
     align-items: flex-end;
     position: absolute;
     display: flex;
     width: 30px;
     padding: 5px;
-    left: 740px;
-    top: 464px;
+    left: 5px;
+    top: 249px;
     color: white;
     background-color: #434738;
 }
 
-  .name2
-  {
+  .name2 {
     align-items: flex-end;
     position: absolute;
     display: flex;
     width: 56px;
     padding: 5px;
-    left: 950px;
-    top: 463px;
+    left: 5px;
+    top: 248px;
     color: white;
     background-color: #434738;
 }
@@ -171,8 +195,8 @@ footer
     justify-content: center;
     display: flex;
     padding: 5px;
-    left: 180px;
-    top: 625px;
+    left: 5px;
+    top: 94px;
     color: white;
     background-color: #434738;
 }
@@ -186,8 +210,8 @@ footer
     justify-content: center;
     display: flex;
     padding: 5px;
-    left: 390px;
-    top: 625px;
+    left: 5px;
+    top: 94px;
     color: white;
     background-color: #434738;
 }
@@ -201,8 +225,8 @@ footer
     justify-content: center;
     display: flex;
     padding: 5px;
-    left: 580px;
-    top: 625px;
+    left: 5px;
+    top: 95px;
     color: white;
     background-color: #434738;
 }
@@ -216,8 +240,8 @@ footer
     justify-content: center;
     display: flex;
     padding: 5px;
-    left: 900px;
-    top: 625px;
+    left: 5px;
+    top: 97px;
     color: white;
     background-color: #434738;
 }
